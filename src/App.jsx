@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* eslint-disable no-unused-vars */
 /* eslint-disable react/prop-types */
 import React, { useState, useEffect, useRef } from "react";
@@ -2635,3 +2636,5 @@ const globalStyles = `
     border: 1px solid rgba(255, 255, 255, 0.1);
   }
 `;
+=======
+>>>>>>> 13c4f06d77548dccaf8f3e3a3669ca76419f32dc
